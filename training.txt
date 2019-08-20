@@ -2,3 +2,4 @@ git training, commit demo
 -am demo
 branch demo
 recurse merge demo
+conflict demo - 2
