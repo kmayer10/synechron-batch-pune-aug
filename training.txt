@@ -5,3 +5,4 @@ recurse merge demo
 conflict demo - 2
 conflict merge demo - 1
 resolving conflicts
+remote fixing of conflicts
