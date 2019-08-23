@@ -7,3 +7,4 @@ conflict merge demo - 1
 resolving conflicts
 remote fixing of conflicts
 resoling remote conflict
+polling demo
